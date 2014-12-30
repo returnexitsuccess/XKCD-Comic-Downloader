@@ -1,6 +1,8 @@
 XKCD-Comic-Downloader
 =====================
 
+Written in Python 2.7
+
 Downloads and updates image files for every XKCD comic along with titles, transcripts, and alt-text.
 Version 1 parses the html file on each webpage to download the comic and the text. Version 2 uses the JSON info for each comic instead. Dates on files suggest this took me almost two years to find T_T
 
