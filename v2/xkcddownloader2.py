@@ -29,7 +29,7 @@ def sumlist(time):
     return summation
 
 
-directory = 'D:/Pictures/XKCD/'
+directory = 'DIRECTORY_HERE'
 # Example C:/pics/xkcd/ make sure to include slash at end
 
 comicCounter = (len(os.listdir(directory)) / 2)

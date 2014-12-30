@@ -2,7 +2,7 @@ import urllib
 import os
 import time
 
-directory = 'C:/Users/Eric/Pictures/XKCD/'
+directory = 'DIRECTORY_HERE'
 
 startComicCounter = (len(os.listdir(directory)) / 2) + 1
 comicCounter = startComicCounter
